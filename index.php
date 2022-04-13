@@ -7,7 +7,7 @@ include 'inc/header.php'; ?>
 	<!-- SHOP CONTENT -->
 	<section id="content">
 		<div class="content-blog">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="page_header text-center">
 						<h2>Shop</h2>
